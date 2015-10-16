@@ -1,2 +1,3 @@
-# learning_experiences
-LMS
+# Learning Experiences
+
+Working space for learning experiences in progress.
